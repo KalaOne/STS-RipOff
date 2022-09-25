@@ -1,5 +1,6 @@
 ﻿
 using STS_Rip_Off.Character;
+using STS_Rip_Off.Units.Enemies;
 
 class Program
 {
@@ -17,7 +18,15 @@ class Program
 
         Console.WriteLine(character.ToString());
 
+        Enemy enemy = new Enemy(1,1);
 
+        enemy.SlimeEnemyBuilder(enemy, null);
+        enemy.PopulateListOfEnemies();
+        // build enemy
+        //  list of enemies
+        // rng enemies
+        // for starter get two enemies and let user decide which enemy to face
+        // initiate battle
 
     }
 }

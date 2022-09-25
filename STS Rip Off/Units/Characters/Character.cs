@@ -173,7 +173,6 @@ namespace STS_Rip_Off.Character
             return null;
         }
 
-
         public string ToString()
         {
             StringBuilder sb = new StringBuilder("Character properties: \n" + " Starting Relic:" + this.StartingRelic.ToString());

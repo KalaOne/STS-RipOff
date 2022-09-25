@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using STS_Rip_Off.Misc;
 
 namespace STS_Rip_Off.Interfaces
 {
@@ -17,9 +14,14 @@ namespace STS_Rip_Off.Interfaces
     {
         public string Name { get; set; }
         public EnemyType Type { get; set; }
-       // public Skill? PassiveSkill { get; set; }
-        public int Health { get; set; }
-       // public Intent Intent { get; set; }
+        public int HealthLowValue { get; set; }
+        public int HealthHighValue { get; set; }
+    }
+
+    public interface IBattleBehaviour
+    {
+        public Intent? Intent { get; set; } // next action to take
+        public IEffect? Effect { get; set; } //effect of the intended action
 
     }
 }

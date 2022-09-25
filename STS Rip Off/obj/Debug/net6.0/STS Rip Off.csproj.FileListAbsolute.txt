@@ -13,3 +13,18 @@ C:\Users\Home\Desktop\Projects\STS Rip Off\STS Rip Off\obj\Debug\net6.0\STS Rip 
 C:\Users\Home\Desktop\Projects\STS Rip Off\STS Rip Off\obj\Debug\net6.0\ref\STS Rip Off.dll
 C:\Users\Home\Desktop\Projects\STS Rip Off\STS Rip Off\obj\Debug\net6.0\STS Rip Off.pdb
 C:\Users\Home\Desktop\Projects\STS Rip Off\STS Rip Off\obj\Debug\net6.0\STS Rip Off.genruntimeconfig.cache
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\bin\Debug\net6.0\STS Rip Off.exe
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\bin\Debug\net6.0\STS Rip Off.deps.json
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\bin\Debug\net6.0\STS Rip Off.runtimeconfig.json
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\bin\Debug\net6.0\STS Rip Off.dll
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\bin\Debug\net6.0\ref\STS Rip Off.dll
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\bin\Debug\net6.0\STS Rip Off.pdb
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\STS Rip Off.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\STS Rip Off.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\STS Rip Off.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\STS Rip Off.AssemblyInfo.cs
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\STS Rip Off.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\STS Rip Off.dll
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\ref\STS Rip Off.dll
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\STS Rip Off.pdb
+C:\Users\Home\Desktop\STS-RipOff\STS Rip Off\obj\Debug\net6.0\STS Rip Off.genruntimeconfig.cache
